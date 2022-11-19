@@ -1,0 +1,14 @@
+[
+    {
+        "id_users": 1,
+        "type": "IN",
+        "is_approve": true,
+        "waktu": "16/10/20 08.00"
+    },
+    {
+        "id_users": 1,
+        "type": "OUT",
+        "is_approve": false,
+        "waktu": "16/10/20 17.00"
+    }
+]
